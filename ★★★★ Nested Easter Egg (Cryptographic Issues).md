@@ -1,6 +1,7 @@
 # Juice Shop Lab - Decrypting `easter.gg` File
 
-This README walks through the process of finding and decrypting an encrypted file named `easter.gg` in a Juice Shop lab. The lab involves discovering hidden files, downloading them using URL manipulation, and decrypting their contents.
+
+This file walks through the process of finding and decrypting an encrypted file named `easter.gg` in a Juice Shop lab. The lab involves discovering hidden files, downloading them using URL manipulation, and decrypting their contents.
 
 ## Overview
 The challenge involves:
