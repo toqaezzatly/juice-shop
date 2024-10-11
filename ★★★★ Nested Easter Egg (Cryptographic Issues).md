@@ -23,6 +23,10 @@ The challenge involves:
    Initially, to find hidden files, navigate to common paths in the application such as:
    - `/ftp/` or `/files/` which are often used to store downloadable files.
    - By trying to access `http://localhost:3000/ftp/`, I checked if directory browsing was enabled. This could potentially reveal a list of files, but it wasn't in this case.
+   - 
+   ![image](https://github.com/user-attachments/assets/5adadca5-60aa-4376-8dca-2152c2b25122)
+
+
 
 2. **Using Brute Force**:
    If manual exploration doesn’t work, tools like `dirb`, `gobuster`, or `ffuf` can help brute force directories and file names. For instance:
