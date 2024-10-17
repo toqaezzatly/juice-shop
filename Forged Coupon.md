@@ -18,6 +18,7 @@ To solve this challenge, the `~/ftp` directory must already be accessible. Once 
 
 ### 1. Access the Encrypted Coupons:
 - File: `http://localhost:3000/ftp/coupons_2013.md.bak%2500.md`  
+  This file contains the encrypted coupons. Below is an example of the encrypted coupon codes:
 
   ```
   n<MibgC7sn
